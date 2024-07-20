@@ -32,7 +32,7 @@ namespace WindowsFormsApp1
             elementHost1.Child = _sharpCanvas;
             _sharpCanvas.Loaded += (s, ee) =>
             {
-                var path = @"D:\Image.bmp";
+                var path = @"D:\4个二维码.png";
                 BitmapFrame image = BitmapFrame.Create(new Uri(path));
 
                 _sharpCanvas.CV_DisplayImage(image);

@@ -25,3 +25,11 @@ Zooming, panning, and selection is also supported for interactive editing.
 
 Finally, you can export the drawn graphics as a bitmap in any size, 
 and the shapes in canvas would be preserved and keep ratio.
+
+# Install
+
+You can install **SharpCanvas** from NuGet Package Manager.
+
+```
+Install-Package Sharp.Canvas
+```
