@@ -1,0 +1,28 @@
+﻿{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "SharpCanvas/1.0.0": {
+        "runtime": {
+          "SharpCanvas.dll": {}
+        },
+        "resources": {
+          "zh-Hans/SharpCanvas.resources.dll": {
+            "locale": "zh-Hans"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SharpCanvas/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
